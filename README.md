@@ -5,7 +5,7 @@
 - 💬 Ask me anything about Discord Bots! (discord.js V14).
 - 📫 How to reach me: info@heckerdev.net.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I like coding (Wow what a shocker!)
+- ⚡ Fun fact: I like coding (What a shocker)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
