@@ -1,4 +1,4 @@
-# My Mods for 1.20.2:
+# My 1.20.2 Mods (Fabric):
 - [FabricSkyBoxes Interop](https://modrinth.com/mod/HpdHOPOp) [1.3.6+mc1.20.2-build.52]
 - [Better Beds](https://modrinth.com/mod/kKwy3HU9) [1.3.0]
 - [Puzzle](https://modrinth.com/mod/3IuO68q1) [1.6.0+1.20.2]
