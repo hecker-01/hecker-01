@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [HeckersUtils](https://github.com/Hecker-01/HeckersUtilsPlugin) & [HeckersHomes](https://github.com/hecker-01/HeckersHomes).
+- 🔭 I’m currently working on [HeckersUtils](https://github.com/Hecker-01/HeckersUtils) & [HeckersHomes](https://github.com/hecker-01/HeckersHomes).
 
-  [![HeckersUtilsPlugin Pin](https://github-readme-stats.vercel.app/api/pin?username=hecker-01&repo=HeckersUtilsPlugin&show_owner=true&show_icons=true&theme=dark&bg_color=00000000&border_radius=7.5)](https://github.com/Hecker-01/HeckersUtilsPlugin)
+  [![HeckersUtils Pin](https://github-readme-stats.vercel.app/api/pin?username=hecker-01&repo=HeckersUtils&show_owner=true&show_icons=true&theme=dark&bg_color=00000000&border_radius=7.5)](https://github.com/Hecker-01/HeckersUtils)
   [![HeckersHomes Pin](https://github-readme-stats.vercel.app/api/pin?username=hecker-01&repo=HeckersHomes&show_owner=true&show_icons=true&theme=dark&bg_color=00000000&border_radius=7.5)](https://github.com/hecker-01/HeckersHomes)
 - 🌱 I’m currently learning how to make Minecraft Mods with [Fabric](https://fabricmc.net/).
 - 📫 How to reach me: [info@heckerdev.net](mailto://info@heckerdev.net).
