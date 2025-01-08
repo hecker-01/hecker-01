@@ -5,7 +5,6 @@
   [![HeckersHomes Pin](https://github-readme-stats.vercel.app/api/pin?username=hecker-01&repo=HeckersHomes&show_owner=true&show_icons=true&theme=dark&bg_color=00000000&border_radius=7.5)](https://github.com/hecker-01/HeckersHomes)
 - 🌱 I’m currently studying software development at Grafisch Lyceum Rotterdam
 - 📫 How to reach me: [info@heckerdev.net](mailto://info@heckerdev.net).
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like coding.
 <!--
 - 💬 Ask me anything about ..!
