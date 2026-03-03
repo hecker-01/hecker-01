@@ -36,14 +36,6 @@
 
 [![Top Langs](https://github-readme-stats-rlkg-c4pmoibxf-denvercoder1s-projects.vercel.app/api/top-langs/?username=hecker-01&show_icons=true&theme=catppuccin_mocha&icon_color=cba6f7&border_color=45475a&title_color=cdd6f4&text_color=cdd6f4&border_radius=7.5&layout=compact)](https://github.com/Hecker-01?tab=repositories)
 
-</div>
-
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hecker-01/hecker-01/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hecker-01/hecker-01/output/github-snake.svg" />
