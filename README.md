@@ -20,7 +20,7 @@
 
 [![heckr.dev](https://github-readme-stats-rlkg-c4pmoibxf-denvercoder1s-projects.vercel.app/api/pin?username=Hecker-01&repo=heckr.dev&show_owner=true&show_icons=true&theme=catppuccin_mocha&icon_color=cba6f7&border_color=45475a&title_color=fff&text_color=cdd6f4&border_radius=7.5)](https://github.com/hecker-01/heckr.dev)
 &nbsp;
-[![Cordium](https://github-readme-stats-rlkg-c4pmoibxf-denvercoder1s-projects.vercel.app/api/pin?username=Hecker-01&repo=Cordium&show_owner=true&show_icons=true&theme=catppuccin_mocha&icon_color=cba6f7&border_color=45475a&title_color=fff&text_color=cdd6f4&border_radius=7.5)](https://github.com/hecker-01/Cordium)
+[![ptdl](https://github-readme-stats-rlkg-c4pmoibxf-denvercoder1s-projects.vercel.app/api/pin?username=Hecker-01&repo=ptdl&show_owner=true&show_icons=true&theme=catppuccin_mocha&icon_color=cba6f7&border_color=45475a&title_color=fff&text_color=cdd6f4&border_radius=7.5)](https://github.com/hecker-01/ptdl)
 
 </div>
 
