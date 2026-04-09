@@ -14,7 +14,7 @@
 
 ---
 
-<h3 align="center">🚀 Current Projects</h3>
+<h3 align="center">Current Projects</h3>
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
 
