@@ -18,9 +18,10 @@
 
 <div align="center">
 
-[![Kitsudo](https://github-stats-extended.vercel.app/api/pin?username=Hecker-01&repo=kitsudo&show_owner=true&show_icons=true&theme=dark_github&icon_color=39D252&border_color=3d444d&title_color=FFFFFF&text_color=FFFFFF&border_radius=7.5)](https://github.com/hecker-01/kitsudo)
+[![heckr.dev](https://github-stats-extended.vercel.app/api/pin?username=Hecker-01&repo=heckr.dev&show_owner=true&show_icons=true&theme=dark_github&icon_color=39D252&border_color=3d444d&title_color=FFFFFF&text_color=FFFFFF&border_radius=7.5)](https://github.com/hecker-01/heckr.dev)
 &nbsp;
-[![reCodr](https://github-stats-extended.vercel.app/api/pin?username=Hecker-01&repo=reCodr&show_owner=true&show_icons=true&theme=dark_github&icon_color=39D252&border_color=3d444d&title_color=FFFFFF&text_color=FFFFFF&border_radius=7.5)](https://github.com/hecker-01/reCodr)
+[![Kitsudo](https://github-stats-extended.vercel.app/api/pin?username=Hecker-01&repo=kitsudo&show_owner=true&show_icons=true&theme=dark_github&icon_color=39D252&border_color=3d444d&title_color=FFFFFF&text_color=FFFFFF&border_radius=7.5)](https://github.com/hecker-01/kitsudo)
+
 
 </div>
 
